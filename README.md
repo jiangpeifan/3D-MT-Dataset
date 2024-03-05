@@ -1,6 +1,6 @@
 ![image text](https://github.com/jiangpeifan/3D_MT_Dataset/blob/main/DATASET.jpg "DATASET")
 
-## This is a 3D MT Dataset for Deep Learning
+# This is a 3D MT Dataset for Deep Learning
 
 Paper under review: "Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning"
 

@@ -1,1 +1,7 @@
-TEST
+The geoelectric model and the corresponding forward modeling response data require a simple format conversion.
+
+'''python
+    origindata = origindata.transpose((1, 2, 0))
+    label = label.transpose((1, 0, 2))
+    label = label[:, ::-1, ::-1]
+'''

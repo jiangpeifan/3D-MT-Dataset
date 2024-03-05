@@ -10,4 +10,4 @@ Trainset Part2 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-
 
 Testset and Validationset are available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-testandvia
 
-Dataset usage instructions and visualisation scripts coming soon
+**Dataset usage instructions and visualisation scripts coming soon**

@@ -6,11 +6,11 @@ Paper under review: "Three Dimensional Magnetotelluric Forward Modeling Through 
 
 ## How to get?
 
-Trainset Part1 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-trainpart1
+* Trainset Part1 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-trainpart1
 
-Trainset Part2 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-trainpart2
+* Trainset Part2 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-trainpart2
 
-Testset and Validationset are available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-testandvia
+* Testset and Validationset are available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-testandvia
 
 ## How to use?
 

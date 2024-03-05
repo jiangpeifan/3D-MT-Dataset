@@ -12,3 +12,4 @@ forwarddata = forwarddata.transpose((1, 0, 2))
 forwarddata = forwarddata[:, ::-1, ::-1]
 # The above operation will make mtdata correspond to forwarddata
 ```
+The visualisation method is shown in the Matlab code: Visualisation.m

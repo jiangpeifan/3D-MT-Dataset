@@ -15,3 +15,5 @@ Paper under review: "Three Dimensional Magnetotelluric Forward Modeling Through 
 ## How to use?
 
 *See Note*
+
+*If you have questions please email me: jpeifan@qq.com*

@@ -14,4 +14,4 @@ Paper under review: "Three Dimensional Magnetotelluric Forward Modeling Through 
 
 ## How to use?
 
-*Dataset usage instructions and visualisation scripts coming soon*
+*See Note*

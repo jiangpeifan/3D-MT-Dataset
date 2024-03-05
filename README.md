@@ -1,7 +1,7 @@
 # 3D_MT_Dataset
 3D MT Dataset for Deep Learning
 
-![image text](https://github.com/jiangpeifan/3D_MT_Dataset/blob/main/DATASET.png "DATASET")
+![image text](https://github.com/jiangpeifan/3D_MT_Dataset/blob/main/DATASET.jpg "DATASET")
 
 
 Trainset Part1 is available at https://www.kaggle.com/datasets/peifanjiang/3dmt-dataset-trainpart1

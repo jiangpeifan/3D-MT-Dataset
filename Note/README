@@ -1,7 +1,18 @@
 The geoelectric model and the corresponding forward modeling response data require a simple format conversion.
 
+```
+mtdata = np.load('')                           # Read geoelectric model data 
+forwarddata = np.load('')                      # Read forward modeling data 
+
 '''
-origindata = origindata.transpose((1, 2, 0))
-label = label.transpose((1, 0, 2))
-label = label[:, ::-1, ::-1]
+forwarddata = forwarddata[:, :, :, 0]          # If want to get the apparent resistivity
+forwarddata = forwarddata[:, :, :, 1]          # If want to get the apparent resistivity
+
 '''
+mtdata = mtdata.transpose((1, 2, 0))
+forwarddata = forwarddata.transpose((1, 0, 2))
+forwarddata = forwarddata[:, ::-1, ::-1]
+
+# The above operation will make mtdata correspond to forwarddata
+
+```

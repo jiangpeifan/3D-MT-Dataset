@@ -1,5 +1,6 @@
 The geoelectric model and the corresponding forward modeling response data require a simple format conversion.
 
+Python code:
 ```python
 mtdata = np.load('')                           # Read geoelectric model data 
 forwarddata = np.load('')                      # Read forward modeling data 
